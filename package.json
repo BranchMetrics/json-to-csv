@@ -1,0 +1,23 @@
+{
+  "name": "Client Checks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "install": "^0.12.2",
+    "java": "0.7.2",
+    "json2csv": "^4.3.5",
+    "node-gyp": "^3.8.0",
+    "npm": "^6.7.0",
+    "q": "^1.5.1",
+    "zlib": "^1.0.5"
+  }
+}
